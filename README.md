@@ -1,2 +1,2 @@
-# aks-connection-tracking-troubleshootin
-aks-connection-tracking-troubleshootin
+# aks-connection-tracking-troubleshooting
+aks-connection-tracking-troubleshooting
